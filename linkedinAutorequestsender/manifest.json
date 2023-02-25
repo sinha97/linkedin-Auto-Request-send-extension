@@ -1,0 +1,14 @@
+{
+    "name": "Linkedin Request Send",
+    "version": "1.0",
+    "manifest_version": 2,
+    "permissions": [ "activeTab", "https://linkedin.com/*" ],
+    "browser_action": {
+        "default_icon": "logo.jpeg",
+        "default_title": "LinkedIn AutoConnect",
+        "default_popup": "index.html"
+    },
+    "author": {
+        "email": "vk9633698@gmail.com"
+    }
+  }
